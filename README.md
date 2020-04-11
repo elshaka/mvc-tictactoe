@@ -7,7 +7,7 @@ A Tic tac toe game made in Javascript using the MVC pattern.
 A live demo can be found [here](https://raw.githack.com/elshaka/mvc-tictactoe/master/dist/index.html)
 
 ## Built With
-- HTML, CSS, Bootstrap
+- HTML, CSS
 - JavaScript
 
 ## Author
