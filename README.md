@@ -3,6 +3,9 @@ A Tic tac toe game made in Javascript using the MVC pattern.
 
 ![screenshot](./screenshot.png)
 
+## Article
+Read the article about why/how this app was built at [Hacker Noon](https://hackernoon.com/writing-a-simple-mvc-model-view-controller-app-in-vanilla-javascript-u65i34lx) 
+
 ## Live Demo
 A live demo can be found [here](https://raw.githack.com/elshaka/mvc-tictactoe/master/dist/index.html)
 
